@@ -48,7 +48,7 @@ select concat_ws(".","abc","com");
 select concat("hello","world");
 select find_in_set('ak','ak,ck,bk,dk');
 select format("0.324","percent");
-select instr('akshith krishna','k');
+select instr('sai chandana','k');
 select lcase('ABabcdCDe');
 select left('abbbcccdddd',3);
 select length("abcde");
